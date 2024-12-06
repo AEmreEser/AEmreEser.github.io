@@ -50,8 +50,8 @@
       "area": "Electrical Engineering",
       "studyType": "Bachelor of Science (dual degree)",
       "startDate": "2023-05-01",
-      "endDate": "2024-09-01",
-      "summary": "Completed more than 70% of required and elective electronics coursework."
+      "endDate": "2024-09-01 (Discontinued)",
+      "courses": ["Completed more than 70% of required and elective electronics coursework."]
     },
     {
       "institution": "Robert College of Istanbul",
@@ -59,7 +59,10 @@
       "studyType": "High School Diploma",
       "startDate": "2016-08-01",
       "endDate": "2021-06-01",
-      "summary": "Admits the top 0.01% of ∼1.2M entrants of the nation-wide high school placement exam. Member of the selective global G30 school alliance."
+      "courses": [
+        "Admits the top 0.01% of ∼1.2M entrants of the nation-wide high school placement exam.",
+        "Member of the selective global G30 school alliance."
+      ]
     }
   ],
   "experience": [
@@ -69,7 +72,10 @@
       "url": "https://www.sabanciuniv.edu/",
       "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Designing a multi-core hardware-aware neural architecture search (HWNAS) accelerator. Tasks: Algorithm-level specification, architectural specification, RTL design, literature review. Advised by Prof. Ozcan Ozturk."
+      "courses": ["Designing a multi-core hardware-aware neural architecture search (HWNAS) accelerator",
+        "Tasks: Algorithm-level specification, architectural specification, RTL design, literature review.", 
+        "Advised by Prof. Ozcan Ozturk."
+      ]
     },
     {
       "name": "EPFL / Ecole Polytechnique Federale de Lausanne, PARSA Lab",
@@ -77,7 +83,8 @@
       "url": "https://midgard.epfl.ch/our-technology/",
       "startDate": "2024-06-01",
       "endDate": "2024-09-01",
-      "summary": "Implemented a VA translation prefetcher for Midgard Virtual Memory Framework in Chisel HDL. Advised by Prof. Babak Falsafi."
+      "courses": ["Implemented a VA translation prefetcher for Midgard Virtual Memory Framework in Chisel HDL", 
+        "Advised by Prof. Babak Falsafi."]
     },
     {
       "name": "ADI / Analog Devices Integrated",
@@ -85,7 +92,9 @@
       "url": "https://www.analog.com/",
       "startDate": "2023-09-01",
       "endDate": "2024-06-01",
-      "summary": "Implemented NIST compliant elliptic curve digital signature and key exchange operations on hardware in Verilog. Developed elliptic curve digital signature and Diffie-Hellman software for the MAXQ Systems on Chip in C. My work is planned to be implemented on silicon in Q1 2027. Received full time return offer and positive reviews."
+      "courses": ["Implemented NIST compliant elliptic curve digital signature and key exchange operations on hardware in Verilog", 
+      "Developed elliptic curve digital signature and Diffie-Hellman software for the MAXQ Systems on Chip in C", "My work is planned to be implemented on silicon in Q1 2027.",
+      "Received full time return offer and positive reviews."]
     },
     {
       "name": "Sabanci University",
@@ -93,7 +102,7 @@
       "url": "https://www.sabanciuniv.edu/",
       "startDate": "2024-02-01",
       "endDate": "2024-05-01",
-      "summary": "Presented problem session content, graded exams & homework, held office hours."
+      "courses": ["Presented problem session content, graded exams & homework, held office hours"]
     },
     {
       "name": "Sabanci University",
@@ -101,7 +110,8 @@
       "url": "https://www.sabanciuniv.edu/",
       "startDate": "2023-09-01",
       "endDate": "2024-04-01",
-      "summary": "Worked on RISC-V ISA extension for post quantum cryptography algorithm (Kyber, Dilithium, NTT) acceleration. Implemented number theoretic transformations in Assembly language for reference metrics. Advised by Prof. Erkay Savas."
+      "courses": ["Worked on RISC-V ISA extension for post quantum cryptography algorithm (Kyber, Dilithium, NTT) acceleration.", 
+      "Implemented number theoretic transformations in Assembly language for reference metrics. Advised by Prof. Erkay Savas."]
     },
     {
       "name": "ADI / Analog Devices Integrated",
@@ -109,7 +119,8 @@
       "url": "https://www.analog.com/",
       "startDate": "2023-06-01",
       "endDate": "2023-09-01",
-      "summary": "Implemented elliptic curve point operations on hardware in SystemVerilog for a cryptography coprocessor. Developed a regression testing script for our elliptic curve cryptography accelerator in Python & Shell. Optimized area of our elliptic curve cryptography coprocessor. Received co-op conversion offer."
+      "courses": ["Implemented elliptic curve point operations on hardware in SystemVerilog for a cryptography coprocessor.", 
+      "Developed a regression testing script for our elliptic curve cryptography accelerator in Python & Shell. Optimized area of our elliptic curve cryptography coprocessor. Received co-op conversion offer."]
     },
     {
       "name": "TUBITAK Bilgem",
@@ -117,7 +128,7 @@
       "url": "https://www.tubitak.gov.tr/",
       "startDate": "2023-01-01",
       "endDate": "2023-02-01",
-      "summary": "Developed an email microservice for the Safir-Depo suite’s note taking app using Quarkus and Apache Kafka."
+      "courses": ["Developed an email microservice for the Safir-Depo suite’s note taking app using Quarkus and Apache Kafka."]
     },
     {
       "name": "Sabanci University",
@@ -125,7 +136,7 @@
       "url": "https://www.sabanciuniv.edu/",
       "startDate": "2022-09-01",
       "endDate": "2023-01-01",
-      "summary": "Assisted problem sessions, held office hours."
+      "courses": ["Assisted problem sessions, held office hours."]
     }
   ],
   "skills": [
