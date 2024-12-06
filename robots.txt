@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AEmreEser.github.io/sitemap.xml
+Sitemap: https://aemreeser.github.io/sitemap.xml
