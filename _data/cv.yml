@@ -2,96 +2,92 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ahmet Emre Eser
     - name: Languages
-      value: English, German
+      value: English, Turkish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science , Computer Science and Engineering Engineering
+      institution: Sabanci University, Istanbul, Turkey
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Full Scholarship
+        - GPA - 3.77 / 4.00
+        - High Honor Award - Fall & Spr 2021-22, Fall & Spr 2022-23, Spr 2023-24
+        - Completed 25% more ECTS engineering credits than required
+    - title: Bachelor of Science (Dual Degree), Electrical Engineering
+      institution: Robert College of Istanbul, Istanbul, Turkey
+      year: 2024 (Discontinued)
       description:
-        - Description 1.
-        - Description 2.
-
+        - Completed more than 70% of required and elective electronics coursework. 
+    - title: High School Diploma
+      institution: Robert College of Istanbul, Istanbul, Turkey
+      year: 2021
+      description:
+        - Admits the top 0.01% of ∼1.2M entrants of the nation-wide high school placement exam
+        - Member of the selective global <a href="https://en.wikipedia.org/wiki/G30_Schools">G30 school alliance</a>
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Computer Architecture Research Assistant
+      institution: Sabanci University, Istanbul, Turkey
+      year: Sep 2024 - Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designing a multi-core hardware-aware neural architecture search (HWNAS) accelerator
+        - Tasks include Algorithm-level specification, architectural specification, RTL design, literature review
+        - Advised by <a href="https://www.cs.bilkent.edu.tr/~ozturk/">Prof. Ozcan Ozturk</a>
+    - title: Computer Architecture Research Intern
+      institution: EPFL / Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland
+      year: Jun 2024 - Sep 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Implemented a VA translation prefetcher for <a href="https://midgard.epfl.ch/our-technology/">Midgard Virtual Memory Framework</a> in Chisel HDL
+        - Advised by <a href="https://scholar.google.com/citations?user=LaNEuBUAAAAJ&hl=en">Prof. Babak Falsafi</a>
+    - title: RTL Design Co-op
+      institution: ADI / Analog Devices Integrated, Istanbul, Turkey
+      year: Sep 2023 - Jun 2024
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+        - Implemented NIST compliant elliptic curve digital signature and key exchange operations on hardware in Verilog
+        - Developed elliptic curve digital signature and Diffie-Hellman software for the <a href="https://www.analog.com/en/products/maxq1850.html#part-details">MAXQ Systems on Chip in C</a>
+        - My work is planned to be implemented on silicon in Q1 2027
+        - Received full time return offer and positive reviews
+    - title: Teaching Assistant - CS401 Computer Architecture
+      institution: Sabanci University, Istanbul, Turkey
+      year: Feb 2024 - May 2024
+      description:
+        - Presented problem session content, graded exams and assignments, held office hours
+    - title: Research Assistant - Cryptographic Hardware Design
+      institution: Sabanci University, Istanbul, Turkey
+      year: Sep 2023 - Apr 2024
+      description: 
+        - Worked on RISC-V ISA extension for post quantum cryptography algorithm (Kyber, Dilithium, NTT) acceleration
+        - Implemented number theoretic transformations in Assembly language for reference metrics
+        - Advised by <a href="https://fens.sabanciuniv.edu/en/faculty-members/detail/552">Prof. Erkay Savas</a>
+    - title: RTL Design Intern
+      institution: ADI / Analog Devices Integrated, Istanbul, Turkey
+      year: Jun 2023 - Sep 2024
+      description:
+        - Implemented elliptic curve point operations on hardware in SystemVerilog for a cryptography coprocessor
+        - Developed a regression testing script for our elliptic curve cryptography accelerator in Python & Shell
+        - Optimized area of our elliptic curve cryptography coprocessor
+        - Received co-op conversion offer
+    - title: Back-end Software Development Intern
+      institution: TUBITAK Bilgem, Istanbul, Turkey
+      year: Jan 2023 - Feb 2023
+      description:
+        - developed an email microservice for the <a href="https://b3lab.org/en/sayfalar/safir_depo-15/">Safir-Depo suite's</a> note-taking app using Quarkus and Apache Kafka
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hardware Description Languages:</u> Verilog/SystemVerilog (Fluent), Chisel (Fluent), Bluespec Verilog (Basic)
+    - <u>Architectures:</u> RISC-V (Knowledgeable), AVR (Knowledgeable), MIPS (Knowledgeable), ARM (Basic), x86 (Basic)
+    - <u>Tools:</u> Cadence Virtuoso, Git, Verilator, QEMU, OpenOCD, Vivado, Linux/Unix, SVN, SBT, Makefile, Jenkins
+    - <u>Programming Languages:</u> C/C++ (Fluent), Python (Fluent), Bash (Intermediate), SQL (Intermediate), Rust (Basic), TCL (Basic), Matlab (Basic)
+    - <u>Frameworks:</u> CUDA (Fluent), OpenMP (Intermediate), NS-3 (Intermediate), FreeRTOS (Intermediate), Flex-Bison & Yacc (Basic)
+- title: Test Scores
+  type: list
+  contents:
+    - <u>GRE General:</u> Quant - 168/170, Verbal - 163/170, AWA - 3.5/5
+    - <u>TOEFL IBT:</u> Overall - 113/120, - Reading- 30/30, Listening- 29/30, Speaking 26/30, Writing- 28/30
+

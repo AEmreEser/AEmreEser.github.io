@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AEmreEser
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - AEmreEser/HomemadeOS
+  - AEmreEser/FakeTP
+  - AEmreEser/Environmental-Sensing-BLE-Device-ESP32
+  - AEmreEser/Sobel-Edge-Detection-FPGA
+  - AEmreEser/Cryptography_Implementations
+  # - AEmreEser/Morse-Code-Processor-Module
+  # - AEmreEser/Elevator-Control-Module
