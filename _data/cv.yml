@@ -21,7 +21,7 @@
       institution: Robert College of Istanbul, Istanbul, Turkey
       year: 2024 (Discontinued)
       description:
-        - Completed more than 70% of required and elective electronics coursework. 
+        - Completed more than 70% of required and elective electronics coursework.
     - title: High School Diploma
       institution: Robert College of Istanbul, Istanbul, Turkey
       year: 2021
@@ -60,7 +60,7 @@
     - title: Research Assistant - Cryptographic Hardware Design
       institution: Sabanci University, Istanbul, Turkey
       year: Sep 2023 - Apr 2024
-      description: 
+      description:
         - Worked on RISC-V ISA extension for post quantum cryptography algorithm (Kyber, Dilithium, NTT) acceleration
         - Implemented number theoretic transformations in Assembly language for reference metrics
         - Advised by <a href="https://fens.sabanciuniv.edu/en/faculty-members/detail/552">Prof. Erkay Savas</a>
@@ -90,4 +90,3 @@
   contents:
     - <u>GRE General:</u> Quant - 168/170, Verbal - 163/170, AWA - 3.5/5
     - <u>TOEFL IBT:</u> Overall - 113/120, - Reading- 30/30, Listening- 29/30, Speaking 26/30, Writing- 28/30
-
