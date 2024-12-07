@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Sabanci University</p>
-    <p>Istanbul, Turkey</p>
+    <p>Me with the legendary CRAY-1 Machine</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
