@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: CSE Student@Sabanci University
+subtitle: MSc Student @ UC San Diego
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Me with the legendary CRAY-1 Machine</p>
+    <p>Me with the CRAY-1 Machine</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

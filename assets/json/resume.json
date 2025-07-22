@@ -28,6 +28,19 @@
   },
   "education": [
     {
+      "institution": "University of California, San Diego",
+      "location": "San Diego, California",
+      "url": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2025-09-22",
+      "endDate": "2027-06-01",
+      "score": "4.00/4.00",
+      "courses": [
+        "Computer Engineering Track (EC79)"
+      ]
+    },
+    {
       "institution": "Sabanci University",
       "location": "Istanbul, Turkey",
       "url": "https://www.sabanciuniv.edu/",
@@ -67,14 +80,14 @@
   "experience": [
     {
       "name": "Sabanci University",
-      "position": "Computer Architecture Research Assistant",
+      "position": "DNN Accelerator Architectures Research Assistant",
       "url": "https://www.sabanciuniv.edu/",
       "startDate": "2024-09-01",
-      "endDate": "Present",
+      "endDate": "2025-06-01",
       "highlights": [
-        "Designing a multi-core hardware-aware neural architecture search (HWNAS) accelerator",
-        "Tasks: Algorithm-level specification, architectural specification, RTL design, literature review.",
-        "Advised by Prof. Ozcan Ozturk."
+        "Worked on the design of a DNN training accelerator for the DARTS neural architecture search (NAS) algorithm",
+        "Determined unit specifications based on the existing DARTS software & algorithms",
+        "Designed latency optimized floating point adder & multiplier circuits in Verilog, validated in Verilator"
       ]
     },
     {
@@ -114,7 +127,7 @@
       "endDate": "2024-04-01",
       "highlights": [
         "Worked on RISC-V ISA extension for post quantum cryptography algorithm (Kyber, Dilithium, NTT) acceleration.",
-        "Implemented number theoretic transformations in Assembly language for reference metrics. Advised by Prof. Erkay Savas."
+        "Implemented number theoretic transformations in riscv assembly for reference metrics. Advised by Prof. Erkay Savas."
       ]
     },
     {
@@ -124,8 +137,10 @@
       "startDate": "2023-06-01",
       "endDate": "2023-09-01",
       "highlights": [
-        "Implemented elliptic curve point operations on hardware in SystemVerilog for a cryptography coprocessor.",
-        "Developed a regression testing script for our elliptic curve cryptography accelerator in Python & Shell. Optimized area of our elliptic curve cryptography coprocessor. Received co-op conversion offer."
+        "Implemented elliptic curve point operations on hardware in SystemVerilog for a cryptography coprocessor",
+        "Developed a regression testing script for said elliptic curve cryptography accelerator in Jenkins, Python & Bash",
+        "Optimized area of said elliptic curve cryptography coprocessor",
+        "Received Co-Op conversion offer and positive reviews"
       ]
     },
     {
@@ -147,9 +162,9 @@
   ],
   "skills": [
     {
-      "name": "Hardware Description Languages",
+      "name": "Hardware Design",
       "level": "",
-      "keywords": ["Verilog/SystemVerilog (Fluent)", "Chisel (Fluent)", "Bluespec Verilog (Basic)"]
+      "keywords": ["Verilog (Fluent)", "SystemVerilog (Fluent)", "Chisel (Intermediate)"]
     },
     {
       "name": "Architectures",
@@ -157,19 +172,13 @@
       "keywords": ["RISC-V (Knowledgeable)", "AVR (Knowledgeable)", "MIPS (Knowledgeable)", "ARM (Basic)", "x86 (Basic)"]
     },
     {
-      "name": "Tools",
+      "name": "Tools & Protocols",
       "level": "",
-      "keywords": ["Cadence Virtuoso", "Git", "Verilator", "QEMU", "OpenOCD", "Vivado", "Linux/Unix", "SVN", "SBT", "Makefile", "Jenkins"]
+      "keywords": ["Cadence Virtuoso", "Git", "Verilator", "QEMU", "OpenOCD", "Vivado", "Linux/Unix", "SVN", "Makefile", "Jenkins"]
     },
-    {
-      "name": "Programming Languages",
+    {"name": "Programming Languages",
       "level": "",
-      "keywords": ["C/C++ (Fluent)", "Python (Fluent)", "Bash (Intermediate)", "SQL (Intermediate)", "Rust (Basic)", "TCL (Basic)", "Matlab (Basic)"]
-    },
-    {
-      "name": "Frameworks & Libraries",
-      "level": "",
-      "keywords": ["OpenMP (Intermediate)", "CUDA (Intermediate)", "NS-3 (Intermediate)", "FreeRTOS (Intermediate)", "Flex-Bison/Yacc (Basic)"]
+      "keywords": ["C/C++ (Fluent)", "Python (Fluent)", "Bash (Intermediate)", "CUDA (Intermediate)", "TCL (Basic)", "Matlab (Basic)"]
     }
   ],
   "languages": [
@@ -187,6 +196,14 @@
     }
   ],
   "projects": [
+    {
+      "name": "Standard Cell Library for 180nm XFAB PDK",
+      "summary": "Design and layout of serial adder, D latch, D flip flop, full adder, NAND, NOR cells",
+      "highlights": [],
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-01",
+      "url": "https://github.com/AEmreEser/Standard-Cell-Library-for-XT018"
+    },
     {
       "name": "Messenger with Signal Protocol",
       "summary": "Encryption, decryption and secure messaging via the Signal protocol.",

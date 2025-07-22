@@ -4,10 +4,14 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - AEmreEser/Standard-Cell-Library-for-XT018
   - AEmreEser/HomemadeOS
-  - AEmreEser/FakeTP
-  - AEmreEser/Environmental-Sensing-BLE-Device-ESP32
+  - AEmreEser/Adaptive-Savitzky-Golay-Filter
+  - AEmreEser/CUDAkmeans
   - AEmreEser/Sobel-Edge-Detection-FPGA
+  - AEmreEser/OMPkmeans
+  - AEmreEser/Environmental-Sensing-BLE-Device-ESP32
+  - AEmreEser/Morse-Code-Processor-Module
+  - AEmreEser/FakeTP
   - AEmreEser/Cryptography_Implementations
-  # - AEmreEser/Morse-Code-Processor-Module
-  # - AEmreEser/Elevator-Control-Module
+  - AEmreEser/Elevator-Control-Module
