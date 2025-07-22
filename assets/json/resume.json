@@ -36,9 +36,7 @@
       "startDate": "2025-09-22",
       "endDate": "2027-06-01",
       "score": "4.00/4.00",
-      "courses": [
-        "Computer Engineering Track (EC79)"
-      ]
+      "courses": ["Computer Engineering Track (EC79)"]
     },
     {
       "institution": "Sabanci University",
@@ -176,7 +174,8 @@
       "level": "",
       "keywords": ["Cadence Virtuoso", "Git", "Verilator", "QEMU", "OpenOCD", "Vivado", "Linux/Unix", "SVN", "Makefile", "Jenkins"]
     },
-    {"name": "Programming Languages",
+    {
+      "name": "Programming Languages",
       "level": "",
       "keywords": ["C/C++ (Fluent)", "Python (Fluent)", "Bash (Intermediate)", "CUDA (Intermediate)", "TCL (Basic)", "Matlab (Basic)"]
     }
