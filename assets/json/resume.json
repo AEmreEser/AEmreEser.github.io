@@ -46,11 +46,12 @@
       "studyType": "Bachelor of Science",
       "startDate": "2021-09-01",
       "endDate": "2025-06-01",
-      "score": "3.77/4.00",
+      "score": "3.73/4.00",
       "courses": [
         "Full Scholarship",
         "High Honor Award: Fall & Spring 2021-22, Fall & Spring 2022-23, Spring 2023-24",
-        "Completed 28% more ECTS engineering credits than required"
+        "Completed 28% more ECTS engineering credits than required",
+        "GPA: 3.73/4.00"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "studyType": "Bachelor of Science (dual degree)",
       "startDate": "2023-05-01",
       "endDate": "2024-09-01 (Discontinued)",
-      "courses": ["Completed more than 70% of required and elective electronics coursework."]
+      "courses": ["Quit with 4 core credits (1 course) to go."]
     },
     {
       "institution": "Robert College of Istanbul",
@@ -71,7 +72,8 @@
       "endDate": "2021-06-01",
       "courses": [
         "Admits the top 0.01% of ∼1.2M entrants of the nation-wide high school placement exam.",
-        "Member of the selective global G30 school alliance."
+        "Member of the selective global G30 school alliance.",
+        "GPA: 91.22/100"
       ]
     }
   ],
